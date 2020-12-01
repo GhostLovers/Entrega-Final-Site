@@ -1,0 +1,155 @@
+
+body{
+	background-image: url('AdobeStock_295879539.jpeg');
+
+}
+
+main{background: #0000009c}
+
+
+.menu{
+	margin-top: 0px;
+    color: white;
+    font-family: impact;
+	text-align: center;
+	font-size: 30px;
+	background-color: black;
+	align-items: center;
+
+}
+
+
+.textos{
+	position: relative;
+}
+
+.linha{
+	background-size: contain;
+	margin-top: 250px;
+}
+
+#txt{
+	text-align: center;
+	color: white;
+	font-family: impact;
+	font-size: 30px;
+}
+#titulo{
+	text-decoration: none;
+	color: #912C31;
+    font-size: 36px;
+    margin-left: 100px;
+}
+#titulo:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 36px;
+	margin-left: 100px;
+}
+
+#movies{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#movies:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+#books{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#books:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+#REAL-CASES{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#REAL-CASES:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+
+#login{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 30px;
+}
+
+
+
+.box h1{
+color:white;
+text-transform: uppercase;
+font-weight: 300;
+font-size: 40px;
+}
+
+.box{
+	width: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: black;
+	text-align: center; 
+	border-radius: 50px;
+
+}
+
+.btn{ 
+	width: 100px; 
+	height: 100px; 
+	background-color: #912C31;  
+	cursor: pointer; 
+	padding: 5px 10px; 
+	border-radius: 30px;
+}
+
+
+.click{
+	border-radius: 10px;
+	text-decoration: none;
+	color: white; 
+	background-color:#912C31;
+}
+
+.click:hover{
+	border-radius: 10px; 
+	color: white; 
+	background-color:#912C31;
+	text-decoration: none;
+}
+
+#cad{
+	border-radius: 10px; 
+	color: black;
+}
+
+
+.a{
+	width: 200px;
+	height: 50px;
+}
+
+.cola{
+	background-color: black;
+	height: 50px;
+	margin-bottom: 0px;
+	margin-top: 750px;
+}

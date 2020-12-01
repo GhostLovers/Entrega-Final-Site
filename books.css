@@ -1,0 +1,183 @@
+
+body{ background-image: url('AdobeStock_295879539.jpeg');
+}
+
+.menu{
+	margin-top: 0px;
+    color: white;
+    font-family: impact;
+	text-align: center;
+	font-size: 30px;
+	background-color: black;
+	align-items: center;
+
+}
+
+
+.pesquisa{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#texto{
+	width: 1300px; 
+	height: 50px; 
+	float: center; 
+	font-family: 'arial'; 
+	font-size: 30px; 
+	border-radius: 30px; 
+	background-color: #fef9ef;
+}
+
+.btn{ 
+	width: 60px; 
+	height: 40px; 
+	background-color: #912C31;  
+	cursor: pointer; 
+	padding: 5px 10px; 
+	border-radius: 30px;
+	margin-top: -10px;
+}
+
+
+
+#books{
+	color: #912C31;
+}
+
+.textos{
+	position: relative;
+	z-index: 1;
+}
+
+#petbook{
+	height: 450PX;
+	opacity: 90%;
+	margin-left: 100px;
+}
+#petbook:hover{
+	height: 450PX;
+	opacity: 100%;
+	margin-left: 100px;
+}
+
+#theinstitute{
+	margin-left: 110px;
+	width: 300px;
+	height: 450px;
+	opacity: 90%;
+    margin-left: 0px;
+}
+#theinstitute:hover{
+	margin-left: 110px;
+	width: 300px;
+	height: 450px;
+	opacity: 100%;
+	margin-left: 0px;
+}
+
+#theoutsider{
+	width: 300px;
+	height: 450px;
+	margin-left: 220px;
+	opacity: 90%;
+	margin-left: 0px;
+}
+#theoutsider:hover{
+	width: 300px;
+	height: 450px;
+	margin-left: 0px;
+	opacity: 100%;
+	margin-left: 0px;
+}
+
+#doutorsono{
+	width: 300px;
+	height: 450px;
+	margin-left: 0px;
+	opacity: 90%;
+}
+#doutorsono:hover{
+	width: 300px;
+	height: 450px;
+	margin-left: 0px;
+	opacity: 100%;
+}
+
+.BOOK{
+	font-family: impact;
+	color: white;
+	font-size: 40px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	text-decoration: underline;
+	text-underline-position: center;
+	background-color: #912C31;
+}
+
+
+
+#titulo{
+	text-decoration: none;
+	color: #912C31;
+    font-size: 36px;
+    margin-left: 100px;
+}
+#titulo:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 36px;
+	margin-left: 100px;
+}
+
+#movies{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#movies:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+
+#books{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 30px;
+}
+
+
+#REAL-CASES{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#REAL-CASES:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+#login{
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+#login:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 30px;
+}
+
+.cola{
+	background-color: black;
+	height: 50px;
+	margin-bottom: 0px;
+	margin-top: 150px;
+}

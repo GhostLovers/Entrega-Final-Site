@@ -1,0 +1,44 @@
+body{
+	background-image: url('AdobeStock_295879539.jpeg');
+
+}
+
+
+main{background: #0000009c}
+
+.menu{
+	margin-top: 20px;
+    color: white;
+    font-family: impact;
+	text-align: center;
+	font-size: 30px;
+	background-color: black;
+	font-style: none;
+}
+
+.textos{
+	position: center;
+	z-index: 1;
+}
+
+.linha{
+	background-size: contain;
+	margin-top: 250px;
+}
+
+#txt{
+	text-align: center;
+	color: white;
+	font-family: impact;
+	font-size: 55px;
+	font-style: none;
+}
+	
+#txt:hover{
+	text-align: center;
+	font-family: impact;
+	font-size: 55px;
+	font-style: none;
+	color: #912C31;
+}
+

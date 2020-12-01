@@ -1,0 +1,179 @@
+body{ background-image: url('AdobeStock_295879539.jpeg');
+}
+
+.menu{
+	margin-top: 0px;
+    color: white;
+    font-family: impact;
+	text-align: center;
+	font-size: 30px;
+	background-color: black;
+	align-items: center;
+
+}
+
+
+.pesquisa{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#texto{
+	width: 1300px; 
+	height: 50px; 
+	float: center; 
+	font-family: 'arial'; 
+	font-size: 30px; 
+	border-radius: 30px; 
+	background-color: #fef9ef;
+}
+
+.btn{ 
+	width: 60px; 
+	height: 40px; 
+	background-color: #912C31;  
+	cursor: pointer; 
+	padding: 5px 10px; 
+	border-radius: 30px;
+	margin-top: -10px;
+}
+
+
+.textos{
+	position: relative;
+	z-index: 1;
+}
+
+#jason{
+	opacity: 90%;
+	height: 400PX;
+	margin-left: 100px;
+}
+#jason:hover{
+	opacity: 100%;
+	height: 400PX;
+	margin-left: 100px;
+}
+
+#halloween{
+	height: 400PX;
+	margin-left: 0px;
+	opacity: 90%;
+}
+#halloween:hover{
+	height: 400PX;
+	margin-left: 0px;
+	opacity: 100%;
+}
+
+#scream{
+	width: 300px;
+	height: 400px;
+	margin-left: 0px;
+	opacity: 90%;
+}
+#scream:hover{
+	width: 300px;
+	height: 400px;
+	margin-left: 0px;
+	opacity: 100%;
+}
+
+#petsematary{
+	width: 300px;
+	height: 400px;
+	margin-left: 0px;
+	opacity: 90%;
+}
+#petsematary:hover{
+	width: 300px;
+	height: 400px;
+	margin-left: 0px;
+	opacity: 100%;
+}
+
+.CASOS{
+	font-family: impact;
+	color: white;
+	font-size: 40px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-right: 100px;
+	margin-bottom: 40px;
+	text-decoration: underline;
+	text-underline-position: center;
+	background-color: #912C31;
+}
+
+
+
+
+
+
+
+
+
+#titulo{
+	text-decoration: none;
+	color: #912C31;
+    font-size: 36px;
+    margin-left: 100px;
+}
+#titulo:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 36px;
+	margin-left: 100px;
+}
+
+#movies{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#movies:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+#books{
+	text-decoration: none;
+	color: white;
+	font-size: 28px;
+}
+#books:hover{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 28px;
+}
+
+
+
+#REAL-CASES{
+	text-decoration: none;
+	color: #912C31;
+	font-size: 30px;
+}
+
+
+#login{
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+#login:hover{
+	display: block;
+	text-decoration: none;
+	color: #912C31;
+	font-size: 30px;
+}
+
+.cola{
+	background-color: black;
+	height: 50px;
+	margin-bottom: 0px;
+	margin-top: 150px;
+}
